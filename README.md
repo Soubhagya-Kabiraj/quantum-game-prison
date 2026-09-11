@@ -8,7 +8,7 @@
 </div>
 
 
-Quantum Prisoner's Dilemma Framework.
+Quantum Prisoner's Dilemma Framework..
 
 ## Description
 A framework for simulating and analyzing the Prisoner's Dilemma using quantum strategies, payoff matrices, and a quantum core engine.
